@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cecilzha/simple-burmese-english-date-converter.git"
+    "url": "git+https://github.com/cecilzha/simple-burmese-date-localization.git"
   },
   "keywords": ["Burmese", "Date", "Localization"],
   "author": "Cecil ZHA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cecilzha/simple-burmese-english-date-converter/issues"
+    "url": "https://github.com/cecilzha/simple-burmese-date-localization/issues"
   },
-  "homepage": "https://github.com/cecilzha/simple-burmese-english-date-converter#readme",
+  "homepage": "https://github.com/cecilzha/simple-burmese-date-localization#readme",
   "devDependencies": {
     "@types/jest": "^29.2.3",
     "jest": "^29.3.1",

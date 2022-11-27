@@ -28,7 +28,7 @@ const numbers = new Map<string, string>([
 
 const regexForNumbers = /[0-9]/g
 const regexForMonths = /January|February|March|April|May|June|July|August|September|October|November|December/g
-export const Converter = (date: string) => {
+export const SimpleLocalize = (date: string) => {
     date = date.replace(regexForNumbers, (matched: string): string => {
         if(numbers.has(matched)) {
             return numbers.get(matched) as string
